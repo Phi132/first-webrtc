@@ -1,0 +1,7 @@
+body {
+    position: relative;
+}
+.userOnline {
+    position: fixed;
+    right: 0;
+}
